@@ -12,4 +12,4 @@ tracked in git with commits. You've already made one commit. When you made that 
 
 Your git workflow should follow this cycle. Do a little work, add your changes, commit your changes, push your changes, repeat. Git commits shouldn't do a bunch of things, they should only do one. Your new development mindset should be *"Commit plenty, Commit often"*. We'll talk about the reason why later. For now, lets get back to code.
 
-This step in the lab added changes to your `index.html` and `README.md`. Add, commit and push the chenges, then copy the folder `4_revert_me_later` into the repository so that the `README.md` is in the root of the repository, and continue from there.
+This step in the lab added changes to your `index.html` and `README.md`. Add, commit and push the chenges, then copy the folder `3_revert_me_later` into the repository so that the `README.md` is in the root of the repository, and continue from there.
